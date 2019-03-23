@@ -1,3 +1,7 @@
+#######################################
+## Books management system By Rajesh ##
+#######################################
+
 from tkinter import *
 import backend
 
